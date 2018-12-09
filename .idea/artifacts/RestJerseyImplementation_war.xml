@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="CrunchifyRESTJerseyExample-0.0.1-SNAPSHOT.war">
+    <root id="archive" name="RestJerseyImplementation-0.0.1-SNAPSHOT.war">
       <element id="artifact" artifact-name="RestJerseyImplementation:war exploded" />
     </root>
   </artifact>
